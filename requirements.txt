@@ -3,9 +3,4 @@ torch
 torchvision
 Pillow
 ultralytics
-gdown
-numpy
-pandas
-matplotlib
-tensorboard
-scikit-learn
+opencv-python
