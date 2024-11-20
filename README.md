@@ -49,12 +49,8 @@ https://braintumorpredictoryolov8-jkybyl548mxwbzmlectxxw.streamlit.app/
 ## Authors  
 
 This project was completed in collaboration with:  
-- Aditya Jha
-- Guillermo Marr
-- Arushi Ravula
-- Madina Monowara
 
-- [Aditya Jha](aditya.jha2020123@gmail.com)
-- [Guillermo Marr](guillermomarr3@gmail.com)
-- [Arushi Ravula](arushi.ravula@gmail.com)
+- [Aditya Jha](https://github.com/AJ576)
+- [Guillermo Marr](https://github.com/Gmo3)
+- [Arushi Ravula](https://github.com/ArushiRav)
 - [Madina Monowara](https://github.com/madinamonowara)
