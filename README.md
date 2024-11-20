@@ -1,5 +1,3 @@
-https://braintumorpredictoryolov8-jkybyl548mxwbzmlectxxw.streamlit.app/
-
 # Brain Tumor Classification Through YOLOv8  
 
 YOLOv8 was used as the base of our fine-tuned model for brain tumor classification. This model uses a CNN-based architecture and does best for use cases such as object detection and classification. The model leverages advanced machine learning techniques, including a cyclic learning rate schedule, and applies image preprocessing to improve classification accuracy.  
@@ -43,6 +41,11 @@ Brain tumors pose a significant health challenge, requiring accurate and efficie
 
 ---
 
+# Streamlit Link
+
+https://braintumorpredictoryolov8-jkybyl548mxwbzmlectxxw.streamlit.app/
+
+---
 ## Authors  
 
 This project was completed in collaboration with:  
