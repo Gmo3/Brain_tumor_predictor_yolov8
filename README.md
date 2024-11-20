@@ -12,7 +12,7 @@ Brain tumors pose a significant health challenge, requiring accurate and efficie
 
 ## Key Results  
 
-1. Achieved **95% accuracy** when excluding glioma predictions.  
+1. Achieved **83.4% accuracy** when excluding glioma predictions.  
 2. Efficient deployment of the model through Streamlit, enabling real-time image classification.  
 
 ---
